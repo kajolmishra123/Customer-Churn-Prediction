@@ -50,8 +50,3 @@ The machine learning models provided valuable insights into the key factors infl
 ## Conclusion and Future Recommendations
 This project demonstrates the power of data-driven decision making in the context of customer churn analysis. By leveraging the insights gained from the data exploration, feature engineering, and machine learning models, organizations can develop targeted strategies to improve customer retention and reduce churn rates.
 
-
-## Get Involved
-If you're interested in collaborating on this project or have any questions, feel free to reach out to me. I'm always excited to engage with the community and explore new ways to tackle the challenge of customer churn.
-
-Happy coding and may the odds be ever in your favor!
